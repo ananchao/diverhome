@@ -1,0 +1,14 @@
+en:
+  cancel: cancel
+  loading: loading
+  button_text: OK
+  back_text: Back
+  confirm_text: ok
+  cancel_text: cancel
+zh-CN:
+  cancel: 取消
+  loading: 加载中
+  button_text: 确定
+  back_text: 返回
+  confirm_text: 完成
+  cancel_text: 取消
