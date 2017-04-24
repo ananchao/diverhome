@@ -1,4 +1,4 @@
-# vhp
+# diverhome
 
 > A Vue.js project
 
